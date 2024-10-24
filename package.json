@@ -1,0 +1,14 @@
+{
+    "name": "lisk-whatsapp-integration",
+    "version": "1.0.0",
+    "description": "Demo project for WhatsApp-Lisk integration",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
